@@ -1,7 +1,7 @@
 # LGMVIP-Web-ToDoList
 ToDoList
 
-Website Link : https://amanj-18.github.io/LGMVIP-Web-ToDoList/
+
 
 Preview : 
 
